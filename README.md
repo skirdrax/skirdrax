@@ -22,7 +22,8 @@
 <!-- ================= TECH BADGES ================= -->
 
 <img src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&logo=github&color=7C3AED&labelColor=0F172A&label=Followers" />
-<img src="https://komarev.com/ghpvc/?username=skirdrax&label=👀+Views&style=for-the-badge&color=7C3AED" />
+
+<img src="https://komarev.com/ghpvc/?username=skirdrax&label=👀+Views&style=for-the-badge&color=7C3AED&labelColor=0F172A&baseColor=0F172A" />
 
 <br/>
 <br>
