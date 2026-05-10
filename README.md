@@ -132,13 +132,6 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 
 ## 📊 GitHub Contributions
 
-<div align="center">
-  <!-- GitHub Stats - Menggunakan Mirror Vercel yang lebih cepat -->
-  <img src="https://github-readme-stats.vercel.app/api?username=skirdrax&show_icons=true&theme=transparent&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED&hide_border=true" width="48%" />
-  
-  <!-- Top Languages - Menampilkan bahasa pemrograman yang kamu kuasai -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skirdrax&layout=compact&theme=transparent&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED&hide_border=true" width="48%" />
-</div>
 
 <br/>
 
