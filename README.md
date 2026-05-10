@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&logo=github&color=7C3AED&labelColor=0F172A&label=Followers" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=skirdrax&style=for-the-badge&color=7C3AED&label=👀+Views&abbreviated=true" />
+  <img src="https://hits.dwyl.com/skirdrax/skirdrax.svg?style=for-the-badge&label=👀%20Views&color=7C3AED&labelColor=0F172A" />
 </div>
 <br>
 
