@@ -52,19 +52,6 @@
 
 </p>
 
-<!-- ================= ANALYTICS ================= -->
-
-<p align="center">
-
-<img 
-  src="https://komarev.com/ghpvc/?username=skirdrax&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" 
-/>
-
-<img 
-  src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&color=7C3AED&labelColor=0F172A" 
-/>
-
-</p>
 
 <br/>
 
