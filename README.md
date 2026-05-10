@@ -115,8 +115,6 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 
 ---
 
----
-
 ## 📊 GitHub Contributions
 
 
