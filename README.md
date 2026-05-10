@@ -1,52 +1,45 @@
 <div align="center">
-  <!-- BANNER: UPGRADED TO ULTRA-WIDE SLICE WITH TWINKLING ANIMATION -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=4F46E5&height=300&section=header&text=SAKHI%20ARDRA&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=SOFTWARE%20ENGINEERING%20•%20FULLSTACK%20DEVELOPER%20•%20UI/UX%20DESIGNER&descAlignY=55&descSize=18" width="100%" />
+  <!-- BANNER: ULTRA-WIDE SLICE WITH INTENSE TWINKLING -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=7C3AED&height=320&section=header&text=SAKHI%20ARDRA&fontSize=95&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=SOFTWARE%20ENGINEERING%20•%20FULLSTACK%20DEVELOPER%20•%20UI/UX%20DESIGNER%20•%20SEO%20STRATEGIST&descAlignY=65&descSize=20" width="100%" />
 
-  <!-- AVATAR: UPGRADED WITH NEON GLOW & SQUARE BRUTALISM -->
-  <div style="margin-top: -100px;">
-    <img src="https://avatars.githubusercontent.com/skirdrax" width="150" style="border-radius: 25px; border: 6px solid #4F46E5; box-shadow: 0 0 30px rgba(79, 70, 229, 0.8);" />
+  <!-- AVATAR: NEON SQUARE GLOW -->
+  <div style="margin-top: -120px;">
+    <img src="https://avatars.githubusercontent.com/skirdrax" width="160" style="border-radius: 25px; border: 6px solid #7C3AED; box-shadow: 0 0 35px rgba(124, 58, 237, 0.9), 0 0 15px rgba(0, 255, 255, 0.6);" />
   </div>
 
   <!-- NAMA: BOLDER & SHARPER -->
-  <h1 align="center" style="color: #4F46E5; font-size: 35px; margin-top: 10px;">SAKHI ARDRA HANDARU</h1>
+  <h1 align="center" style="color: #ffffff; font-size: 40px; margin-top: 15px;">SAKHI ARDRA HANDARU</h1>
 
-  <!-- ROLE BADGE: UPGRADED STYLE -->
+  <!-- ROLE BADGES: VISUAL NEON STYLE -->
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-SOFTWARE_ENGINEERING_STUDENT-4F46E5?style=for-the-badge&logo=book&logoColor=white" />
-    <img src="https://img.shields.io/badge/BASE-INDRAMAYU_/_TANGERANG-ffffff?style=for-the-badge&logo=google-maps&logoColor=4F46E5" />
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LOCATION-INDRAMAYU_/_TANGERANG-ffffff?style=for-the-badge&logo=google-maps&logoColor=7C3AED" />
   </p>
 
   <!-- TYPING EFFECT: BRUTAL TERMINAL STYLE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=500&color=4F46E5&center=true&vCenter=true&width=700&height=60&lines=%3E_Fullstack+Web+Developer;%3E_UI%2FUX+Specialist;%3E_SEO+Strategist;%3E_IoT+Enthusiast;%3E_Stock+Market+Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=700&height=65&lines=%3E_Architecting+Digital+Solutions;%3E_Solving+Complex+Problems;%3E_Optimizing+Web+Performance" />
 
   <br/>
 
-  <!-- VISITOR COUNTER: SLEEK DARK -->
-  <img src="https://komarev.com/ghpvc/?username=skirdrax&label=PROFILE+VIEWS&color=4F46E5&style=for-the-badge" />
+  <!-- VISITOR COUNTER: SLEEK FLAT-SQUARE -->
+  <img src="https://komarev.com/ghpvc/?username=skirdrax&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
 
   <br/><br/>
 
-  <!-- SOCIAL LINKS: UPGRADED TO FOR-THE-BADGE FOR CONSISTENCY -->
+  <!-- SOCIAL LINKS: MINIMALIST NEON ICONS -->
   <p align="center">
-    <a href="https://github.com/skirdrax"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/sakhiardra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://instagram.com/skhiii_adrr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="mailto:ardrasakhi390@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/skirdrax"><img src="https://img.shields.io/badge/-GitHub-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/sakhiardra"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://sakhiardra.my.id"><img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
+    <a href="https://instagram.com/skhiii_adrr"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:ardrasakhi390@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   </p>
 
-  <!-- SEPARATOR: BRUTAL NEON LINE -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5&height=3&section=footer" width="90%" />
+  <!-- SEPARATOR: FULL NEON LINE -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=footer" width="100%" />
 
-  <!-- QUOTE: UPGRADED TO ITALIC ELEGANCE -->
-  <p align="center">
-    <code style="color: #4F46E5;">"Architecting the future through clean code and pixel perfection."</code>
-  </p>
-
-  <!-- BOTTOM WAVE: MATCHING FOOTER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer&animation=twinkling" width="100%" />
+  <br/>
 </div>
-
-<br/>
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 
