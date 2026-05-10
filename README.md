@@ -1,4 +1,63 @@
-
+<div align="center">
+  
+  <!-- === CLEAN MINIMAL HEADER === -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=280&section=header&text=&fontSize=0" width="100%" />
+  
+  <div style="margin-top: -80px;">
+    
+    <!-- Avatar Placeholder (opsional) -->
+    <div align="center">
+      <div style="width: 100px; height: 100px; background: linear-gradient(135deg, #4F46E5, #7C3AED); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; box-shadow: 0 20px 40px rgba(79, 70, 229, 0.3);">
+        <span style="font-size: 48px; color: white;">👨‍💻</span>
+      </div>
+    </div>
+    
+    <br/>
+    
+    <!-- Name -->
+    <h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 48px; font-weight: 700; background: linear-gradient(135deg, #FFFFFF 0%, #A78BFA 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;">
+      Sakhi Ardra
+    </h1>
+    
+    <br/>
+    
+    <!-- Role -->
+    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 18px; color: #A1A1AA;">
+      Software Engineering Student
+    </p>
+    
+    <br/>
+    
+    <!-- Typing Effect -->
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=2500&pause=500&color=7C3AED&center=true&vCenter=true&width=500&lines=Web+Development;UI%2FUX+Design;SEO+Optimization;Network+Infrastructure;Internet+of+Things" />
+    
+    <br/>
+    <br/>
+    
+    <!-- Social Links (Clean) -->
+    <p align="center">
+      <a href="https://github.com/skirdrax">
+        <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <a href="https://linkedin.com/in/sakhiardra">
+        <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://instagram.com/skhiii_adrr">
+        <img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white" />
+      </a>
+      <a href="mailto:ardrasakhi390@gmail.com">
+        <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" />
+      </a>
+    </p>
+    
+  </div>
+  
+  <br/>
+  
+  <!-- Bottom Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer" width="100%" />
+  
+</div>
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 
