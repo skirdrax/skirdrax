@@ -7,17 +7,13 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE (ANIMASI GIF) ================= -->
+<!-- ================= FLOATING PROFILE ================= -->
 
 <div align="center" style="margin-top:-115px;">
   <img 
-    src="https://media.tenor.com/C9do-7R7YkIAAAAi/run-boy-run.gif" 
+    src="https://github.com/skirdrax.png" 
     width="170"
-    style="
-      border-radius: 50%;
-      border: 4px solid #7C3AED;
-      box-shadow: 0 0 30px rgba(124,58,237,0.6);
-    "
+    style="border-radius: 50%; border: 4px solid #7C3AED; box-shadow: 0 0 30px rgba(124,58,237,0.6);"
   />
 </div>
 <br/>
