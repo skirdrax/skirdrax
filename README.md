@@ -1,48 +1,49 @@
 <div align="center">
-  
-  <!-- Banner Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=250&section=header&text=Sakhi%20Ardra&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
-  
-  <!-- Avatar / Profile Image (ganti link dengan foto kamu) -->
-  <img src="https://avatars.githubusercontent.com/skirdrax" width="120" style="border-radius: 50%; margin-top: -60px; border: 4px solid #4F46E5;" />
-  
-  <!-- Nama -->
-  <h1 align="center" style="color: #FFFFFF;">Sakhi Ardra Handaru</h1>
-  
-  <!-- Badge Role -->
+  <!-- BANNER: UPGRADED TO ULTRA-WIDE SLICE WITH TWINKLING ANIMATION -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=4F46E5&height=300&section=header&text=SAKHI%20ARDRA&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=SOFTWARE%20ENGINEERING%20•%20FULLSTACK%20DEVELOPER%20•%20UI/UX%20DESIGNER&descAlignY=55&descSize=18" width="100%" />
+
+  <!-- AVATAR: UPGRADED WITH NEON GLOW & SQUARE BRUTALISM -->
+  <div style="margin-top: -100px;">
+    <img src="https://avatars.githubusercontent.com/skirdrax" width="150" style="border-radius: 25px; border: 6px solid #4F46E5; box-shadow: 0 0 30px rgba(79, 70, 229, 0.8);" />
+  </div>
+
+  <!-- NAMA: BOLDER & SHARPER -->
+  <h1 align="center" style="color: #4F46E5; font-size: 35px; margin-top: 10px;">SAKHI ARDRA HANDARU</h1>
+
+  <!-- ROLE BADGE: UPGRADED STYLE -->
   <p align="center">
-    <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING_STUDENT-4F46E5?style=for-the-badge&logo=book&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATUS-SOFTWARE_ENGINEERING_STUDENT-4F46E5?style=for-the-badge&logo=book&logoColor=white" />
+    <img src="https://img.shields.io/badge/BASE-INDRAMAYU_/_TANGERANG-ffffff?style=for-the-badge&logo=google-maps&logoColor=4F46E5" />
   </p>
-  
-  <!-- Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=700&height=50&lines=Fullstack+Web+Developer;UI%2FUX+Designer;SEO+Specialist;IoT+Enthusiast" />
-  
+
+  <!-- TYPING EFFECT: BRUTAL TERMINAL STYLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=500&color=4F46E5&center=true&vCenter=true&width=700&height=60&lines=%3E_Fullstack+Web+Developer;%3E_UI%2FUX+Specialist;%3E_SEO+Strategist;%3E_IoT+Enthusiast;%3E_Stock+Market+Analyst" />
+
+  <br/>
+
+  <!-- VISITOR COUNTER: SLEEK DARK -->
+  <img src="https://komarev.com/ghpvc/?username=skirdrax&label=PROFILE+VIEWS&color=4F46E5&style=for-the-badge" />
+
   <br/><br/>
-  
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=skirdrax&label=👥+PROFILE+VIEWS&color=4F46E5&style=flat-square" />
-  
-  <br/><br/>
-  
-  <!-- Social Links -->
+
+  <!-- SOCIAL LINKS: UPGRADED TO FOR-THE-BADGE FOR CONSISTENCY -->
   <p align="center">
     <a href="https://github.com/skirdrax"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://linkedin.com/in/sakhiardra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://instagram.com/skhiii_adrr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="mailto:ardrasakhi390@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
-  
-  <!-- Garis Pemisah -->
-  <img src="https://custom-icon-badges.demolab.com/badge/───────────────────────────────────-4F46E5?style=flat-square" />
-  
-  <!-- Quote -->
+
+  <!-- SEPARATOR: BRUTAL NEON LINE -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5&height=3&section=footer" width="90%" />
+
+  <!-- QUOTE: UPGRADED TO ITALIC ELEGANCE -->
   <p align="center">
-    <i>"Building meaningful digital experiences"</i>
+    <code style="color: #4F46E5;">"Architecting the future through clean code and pixel perfection."</code>
   </p>
-  
-  <!-- Bottom Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer" width="100%" />
-  
+
+  <!-- BOTTOM WAVE: MATCHING FOOTER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
 
 <br/>
