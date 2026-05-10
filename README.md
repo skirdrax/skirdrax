@@ -7,25 +7,22 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE ================= -->
+<!-- ================= FLOATING PROFILE (BULAT + GLOW) ================= -->
 
-<div style="margin-top:-115px;">
-
-<img 
-  src="https://avatars.githubusercontent.com/skirdrax" 
-  width="170"
-  style="
-    border-radius: 35px;
-    border: 6px solid rgba(255,255,255,0.9);
-    box-shadow:
-      0 0 25px rgba(124,58,237,0.8),
-      0 0 80px rgba(124,58,237,0.45),
-      0 20px 40px rgba(0,0,0,0.35);
-  "
-/>
-
+<div style="margin-top:-115px; display: inline-block; background: radial-gradient(circle, rgba(124,58,237,0.4) 0%, rgba(124,58,237,0) 70%); border-radius: 50%; padding: 12px;">
+  <img 
+    src="https://avatars.githubusercontent.com/skirdrax" 
+    width="170"
+    style="
+      border-radius: 50%;
+      border: 4px solid #FFFFFF;
+      box-shadow: 0 0 30px rgba(124,58,237,0.8), 0 0 60px rgba(124,58,237,0.4), 0 20px 40px rgba(0,0,0,0.4);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    "
+    onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 40px rgba(124,58,237,1), 0 0 80px rgba(124,58,237,0.6)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px rgba(124,58,237,0.8), 0 0 60px rgba(124,58,237,0.4)';"
+  />
 </div>
-
 <br/>
 
 <!-- ================= MAIN TITLE ================= -->
