@@ -1,34 +1,30 @@
-<!-- Clean Professional Header -->
 <div align="center">
   
-  <!-- Name with Gradient -->
+  <!-- Neon Glow Effect -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Sakhi+Ardra" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=1&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=70&lines=SAKHI+ARDRA" />
   </h1>
 
-  <!-- Role Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+UI%2FUX+Designer;SEO+Specialist+%7C+Network+Engineer;IoT+Enthusiast+%7C+Creative+Problem+Solver" />
+  <!-- Elegant Subtitle with Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=500&color=A78BFA&center=true&vCenter=true&width=700&lines=❝+Crafting+digital+experiences+that+matter+❞" />
 
-  <!-- Decorative Dot -->
-  <p align="center">✦ ✦ ✦</p>
+  <br/>
+  <br/>
 
-  <!-- Elegant CTA -->
+  <!-- Minimalist Role Tags -->
   <p align="center">
-    <img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-7C3AED?style=flat-square" />
-    <img src="https://img.shields.io/badge/-CREATIVE%20THINKER-A78BFA?style=flat-square" />
-    <img src="https://img.shields.io/badge/-TECH%20ENTHUSIAST-7C3AED?style=flat-square" />
+    <code>Web Developer</code> •
+    <code>UI/UX Designer</code> •
+    <code>SEO Specialist</code> •
+    <code>IoT Enthusiast</code>
+  </p>
+
+  <!-- Elegant Separator -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-7C3AED?style=flat-square" />
   </p>
 
 </div>
-
-<br/>
-
-<!-- Smooth Divider -->
-<details>
-  <summary align="center">
-    <img src="https://komarev.com/ghpvc/?username=skirdrax&style=flat-square&color=7C3AED" />
-  </summary>
-</details>
 
 <br/>
 
