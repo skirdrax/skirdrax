@@ -7,34 +7,32 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE (3D CHARACTER) ================= -->
+<!-- ================= FLOATING PROFILE (ANIMATED EMOJI) ================= -->
 
 <div align="center" style="margin-top:-115px;">
   <div style="
-    width: 180px;
-    height: 180px;
+    width: 170px;
+    height: 170px;
     border-radius: 50%;
     background: linear-gradient(135deg, #1E1B4B, #312E81);
     display: flex;
     align-items: center;
     justify-content: center;
     border: 4px solid #7C3AED;
-    box-shadow: 0 0 40px rgba(124,58,237,0.6);
-    overflow: hidden;
+    box-shadow: 0 0 30px rgba(124,58,237,0.8);
+    animation: bounce 1.5s ease-in-out infinite;
+    font-size: 90px;
   ">
-    <lottie-player 
-      src="https://assets10.lottiefiles.com/packages/lf20_puciaact.json" 
-      background="transparent" 
-      speed="1" 
-      style="width: 200px; height: 200px;" 
-      loop 
-      autoplay>
-    </lottie-player>
+    <span>🐱‍👤</span>
   </div>
 </div>
 
-<!-- Tambahkan script Lottie di bagian bawah README -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<style>
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+  }
+</style>
 <br/>
 
 <!-- ================= MAIN TITLE ================= -->
