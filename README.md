@@ -7,7 +7,7 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE ================= -->
+<!-- ================= FLOATING PROFILE (LINGKARAN) ================= -->
 
 <div style="margin-top:-115px;">
 
@@ -17,7 +17,7 @@
   style="
     border-radius: 50%;
     border: 4px solid #7C3AED;
-    box-shadow: 0 0 25px rgba(124,58,237,0.8), 0 0 60px rgba(124,58,237,0.3);
+    box-shadow: 0 0 25px rgba(124,58,237,0.8), 0 0 60px rgba(124,58,237,0.4);
   "
 />
 
