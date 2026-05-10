@@ -1,10 +1,17 @@
-<!-- Header Section with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Sakhi%20Ardra&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Sakhi Ardra Header" />
+  <!-- Animated Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=280&section=header&text=Sakhi%20Ardra&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn&gradientColor1=4F46E5&gradientColor2=A855F7&gradientColor3=EC4899" width="100%" />
   
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Web+Developer;UI/UX+Designer;SEO+Specialist;Network+Infrastructure;Internet+Of+Things" alt="Typing SVG" />
+  <!-- Glowing Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Web+Developer+%E2%9C%A6;%E2%9C%A6+UI%2FUX+Designer+%E2%9C%A6;%E2%9C%A6+SEO+Specialist+%E2%9C%A6;%E2%9C%A6+Network+Infrastructure+%E2%9C%A6;%E2%9C%A6+Internet+of+Things+%E2%9C%A6" />
+
+  <br/>
+
+  <!-- Elegant Decorative Line -->
+  <img src="https://custom-icon-badges.demolab.com/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-A78BFA?style=flat&logoColor=white" />
+
 </div>
 
 <br/>
