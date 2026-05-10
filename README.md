@@ -21,11 +21,9 @@
 
 <!-- ================= TECH BADGES ================= -->
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&logo=github&color=7C3AED&labelColor=0F172A&label=Followers" />
-  
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=google-analytics&label=👀%20VIEWS&color=7C3AED&labelColor=0F172A&query=count&url=https://api.countapi.xyz/get/skirdrax/profile" />
-</div>
+<img src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&logo=github&color=7C3AED&labelColor=0F172A&label=Followers" />
+
+<img src="https://img.shields.io/badge/👀%20VIEWS-0?style=for-the-badge&labelColor=0F172A&color=7C3AED" />
 <br/>
 <br>
 
