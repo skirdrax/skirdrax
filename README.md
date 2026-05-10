@@ -177,7 +177,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
   <table border="0" cellpadding="10" style="background: transparent;">
     <tr>
       <td align="center">
-        ✨ <i>"Masukkan quotes favoritmu di sini"</i> ✨
+        <i>"1,5 tahun saya difitnah, saya diam. Dijelek-jelekin, saya diam. Dicela, direndah-rendahkan, saya diam. Dihujat, dihina-hina, saya diam. Tetapi hari ini di GitHub saya sampaikan, saya akan lawan!</i> 
         <br/>
         <b>- Sakhi Ardra</b>
       </td>
@@ -186,5 +186,5 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 </div>
 
 <div align="center">
-  <b>✨ Terimakasih telah mampir di profil saya! ✨</b>
+  <b> Terimakasih telah mampir di profil saya! </b>
 </div>
