@@ -26,7 +26,7 @@
 />
 
 <br/>
-<br/>
+
 
 <!-- ================= SOCIAL BUTTONS ================= -->
 
@@ -133,7 +133,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 ## 📊 GitHub Contributions
 
 
-<br/>
+
 
 <div align="center">
   <!-- GitHub Streak - Menggunakan versi yang lebih stabil -->
