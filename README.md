@@ -21,9 +21,7 @@
 
 <!-- ================= TECH BADGES ================= -->
 
-<img 
-  src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,php,mysql,java,cpp,python,git,figma,vscode&theme=dark" 
-/>
+<img src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&logo=github&color=7C3AED&labelColor=0F172A&label=Followers" />
 
 <br/>
 <br>
