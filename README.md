@@ -7,20 +7,34 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE (ANIMASI MAKHLUK HIDUP) ================= -->
+<!-- ================= FLOATING PROFILE (3D CHARACTER) ================= -->
 
 <div align="center" style="margin-top:-115px;">
-  <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW15bG44Y3Zoa2Z0cWxiM2RkNXJ1bWZ1bG1yNWI2c2pwdjVkdXEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" 
-    width="180"
-    style="
-      border-radius: 50%;
-      border: 4px solid #7C3AED;
-      box-shadow: 0 0 30px rgba(124,58,237,0.8);
-      object-fit: cover;
-    "
-  />
+  <div style="
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #1E1B4B, #312E81);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 4px solid #7C3AED;
+    box-shadow: 0 0 40px rgba(124,58,237,0.6);
+    overflow: hidden;
+  ">
+    <lottie-player 
+      src="https://assets10.lottiefiles.com/packages/lf20_puciaact.json" 
+      background="transparent" 
+      speed="1" 
+      style="width: 200px; height: 200px;" 
+      loop 
+      autoplay>
+    </lottie-player>
+  </div>
 </div>
+
+<!-- Tambahkan script Lottie di bagian bawah README -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <br/>
 
 <!-- ================= MAIN TITLE ================= -->
