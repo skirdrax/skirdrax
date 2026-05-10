@@ -117,21 +117,43 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 
 ## 📊 GitHub Contributions
 
-
-
-
 <div align="center">
-  <!-- GitHub Streak - Menggunakan versi yang lebih stabil -->
+  <i>⏰ <b>Aturan WIB vs UTC (GitHub)</b></i>
+  <br/><br/>
+  
+  <table>
+    <tr>
+      <th>WIB (Indonesia)</th>
+      <th>GitHub Catat</th>
+    </tr>
+    <tr>
+      <td>00:00 - 06:59</td>
+      <td>HARI KEMARIN ❌</td>
+    </tr>
+    <tr>
+      <td>07:00 - 23:59</td>
+      <td>HARI INI ✅</td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <i>📌 Minimal 1 commit/hari</i>
+  <br/>
+  <i>🔥 Streak reset jika skip 1 hari</i>
+  <br/>
+  <i>💡 Rekomendasi: Commit Minimal jam commit biar dihitung jam <b> 07.00 WIB</b></i>
+  
+  <br/><br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skirdrax&theme=dark&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Activity Graph - Ini adalah alternatif keren jika yang lain masih error -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=skirdrax&bg_color=00000000&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
-
 ---
 
 <!-- Connect Section -->
