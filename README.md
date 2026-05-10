@@ -1,28 +1,34 @@
 <!-- ================= HEADER ================= -->
-<div align="center" style="background: linear-gradient(135deg, #0F172A, #1E293B); padding: 20px 0; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+<div style="background: linear-gradient(135deg, #0F172A, #1E293B); padding: 40px 20px; border-radius: 20px; box-shadow: 0 12px 24px rgba(0,0,0,0.3); max-width: 1000px; margin: auto;">
 
-  <!-- Gambar Header Utama -->
+  <!-- Gambar Header Utama dengan efek glow -->
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F172A,50:111827,100:1E293B&text=Sakhi%20Ardra&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=56&descSize=18&animation=fadeIn" 
     width="100%" 
-    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"
+    style="border-radius: 15px; box-shadow: 0 8px 30px rgba(30, 41, 59, 0.6); transition: all 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.02)';"
+    onmouseout="this.style.transform='scale(1)';"
   />
 
-  <!-- Overlay Nama dan Deskripsi dengan efek -->
-  <div style="margin-top:-110px; max-width: 700px; margin-left:auto; margin-right:auto; background: rgba(30, 41, 59, 0.8); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); box-shadow: 0 4px 20px rgba(0,0,0,0.4);">
-    <h1 style="color:#E2E8F0; font-family: 'Arial Rounded MT Bold', sans-serif; font-size: 2.5em; margin: 0;">Sakhi Ardra</h1>
-    <p style="color:#CBD5E0; font-size: 1.2em; margin-top: 8px;">Web Developer | UI/UX Enthusiast | Frontend Engineer | Backend Developer | Always Learning New Things</p>
+  <!-- Overlay Nama dan Deskripsi dengan efek neon -->
+  <div style="margin-top:-120px; max-width: 700px; margin-left:auto; margin-right:auto; background: rgba(30, 41, 59, 0.9); padding: 25px; border-radius: 20px; backdrop-filter: blur(12px); box-shadow: 0 8px 30px rgba(0,0,0,0.4); border: 2px solid #38bdf8;">
+    <h1 style="color:#38bdf8; font-family: 'Arial Rounded MT Bold', sans-serif; font-size: 3em; margin: 0; text-shadow: 0 0 10px #38bdf8, 0 0 20px #38bdf8;">
+      Sakhi Ardra
+    </h1>
+    <p style="color:#CBD5E0; font-size: 1.3em; margin-top: 8px; font-weight: 600;">
+      Web Developer | UI/UX Enthusiast | Frontend & Backend Engineer | Lifelong Learner
+    </p>
   </div>
 
-  <!-- SVG Typing Effect -->
-  <div style="margin-top: 20px;">
+  <!-- SVG Typing Effect yang lebih keren -->
+  <div style="margin-top: 30px;">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=1200&color=E2E8F0&center=true&vCenter=true&width=700&lines=Web+Developer;UI%2FUX+Enthusiast;Frontend+Engineer;Backend+Developer;Always+Learning+New+Things" 
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2500&pause=1200&color=E2E8F0&center=true&vCenter=true&width=700&lines=Web+Developer;UI%2FUX+Enthusiast;Frontend+Engineer;Backend+Developer;Always+Learning+New+Things" 
     />
   </div>
 
-  <!-- Sosial Media dan Kontak -->
-  <div style="margin-top: 20px;">
+  <!-- Sosial Media dan Kontak dengan efek glow -->
+  <div style="margin-top: 30px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://github.com/skirdrax" style="margin: 0 8px;">
       <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
@@ -38,7 +44,7 @@
   </div>
 
   <!-- Pengunjung Profile -->
-  <div style="margin-top: 20px;">
+  <div style="margin-top: 30px;">
     <img 
       src="https://komarev.com/ghpvc/?username=skirdrax&label=Profile%20Views&color=111827&style=for-the-badge" 
       alt="Profile Views" 
