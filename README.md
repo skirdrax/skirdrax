@@ -1,18 +1,34 @@
+<!-- Clean Professional Header -->
 <div align="center">
-  <!-- Animated Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=280&section=header&text=Sakhi%20Ardra&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn&gradientColor1=4F46E5&gradientColor2=A855F7&gradientColor3=EC4899" width="100%" />
   
-  <br/>
+  <!-- Name with Gradient -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Sakhi+Ardra" />
+  </h1>
 
-  <!-- Glowing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Web+Developer+%E2%9C%A6;%E2%9C%A6+UI%2FUX+Designer+%E2%9C%A6;%E2%9C%A6+SEO+Specialist+%E2%9C%A6;%E2%9C%A6+Network+Infrastructure+%E2%9C%A6;%E2%9C%A6+Internet+of+Things+%E2%9C%A6" />
+  <!-- Role Typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+UI%2FUX+Designer;SEO+Specialist+%7C+Network+Engineer;IoT+Enthusiast+%7C+Creative+Problem+Solver" />
 
-  <br/>
+  <!-- Decorative Dot -->
+  <p align="center">✦ ✦ ✦</p>
 
-  <!-- Elegant Decorative Line -->
-  <img src="https://custom-icon-badges.demolab.com/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-A78BFA?style=flat&logoColor=white" />
+  <!-- Elegant CTA -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/-PROBLEM%20SOLVER-7C3AED?style=flat-square" />
+    <img src="https://img.shields.io/badge/-CREATIVE%20THINKER-A78BFA?style=flat-square" />
+    <img src="https://img.shields.io/badge/-TECH%20ENTHUSIAST-7C3AED?style=flat-square" />
+  </p>
 
 </div>
+
+<br/>
+
+<!-- Smooth Divider -->
+<details>
+  <summary align="center">
+    <img src="https://komarev.com/ghpvc/?username=skirdrax&style=flat-square&color=7C3AED" />
+  </summary>
+</details>
 
 <br/>
 
