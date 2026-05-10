@@ -186,5 +186,5 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 </div>
 
 <div align="center">
-  <b> Terimakasih telah mampir di profil saya! </b>
+  <b> Terimakasih telah mampir di profil saya!✨ </b>
 </div>
