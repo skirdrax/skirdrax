@@ -93,7 +93,7 @@ through clean architecture, scalable systems, elegant interfaces, and performanc
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://sakhiardra.my.id">
+<a href="https://portfolio-sakhi.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
