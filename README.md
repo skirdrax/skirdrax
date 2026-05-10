@@ -1,29 +1,41 @@
 <div align="center">
 
-<!-- ================= ULTRA MODERN HERO ================= -->
+<!-- ================= ULTRA MODERN HERO (ENHANCED) ================= -->
 
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,25:0F172A,50:1E1B4B,75:312E81,100:7C3AED&text=SAKHI%20ARDRA&fontSize=78&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20•%20FULLSTACK%20DEVELOPER%20•%20UI%2FUX%20DESIGNER&descAlignY=56&descSize=18&animation=fadeIn" 
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE ================= -->
+<!-- ================= FLOATING PROFILE (BENTUK BULAT + EFEK GLOW) ================= -->
 
-<div style="margin-top:-115px;">
+<div style="margin-top: -105px;">
 
-<img 
-  src="https://avatars.githubusercontent.com/skirdrax" 
-  width="170"
-  style="
-    border-radius: 35px;
-    border: 6px solid rgba(255,255,255,0.9);
-    box-shadow:
-      0 0 25px rgba(124,58,237,0.8),
-      0 0 80px rgba(124,58,237,0.45),
-      0 20px 40px rgba(0,0,0,0.35);
-  "
-/>
-
+  <!-- Lingkaran Glow di Belakang Avatar -->
+  <div style="
+    display: inline-block;
+    background: radial-gradient(circle, rgba(124,58,237,0.6) 0%, rgba(124,58,237,0) 80%);
+    border-radius: 50%;
+    padding: 8px;
+  ">
+    <!-- Avatar dengan Border Gradien dan Bayangan -->
+    <img 
+      src="https://avatars.githubusercontent.com/skirdrax" 
+      width="150"
+      style="
+        border-radius: 50%;
+        border: 4px solid transparent;
+        background: linear-gradient(135deg, #7C3AED, #EC4899, #F59E0B) border-box;
+        -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+        -webkit-mask-composite: xor;
+        mask-composite: exclude;
+        box-shadow: 0 0 35px rgba(124,58,237,0.6), 0 0 70px rgba(124,58,237,0.3), 0 20px 40px rgba(0,0,0,0.4);
+        transition: transform 0.4s ease, box-shadow 0.4s ease;
+      "
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 45px rgba(124,58,237,0.9), 0 0 90px rgba(124,58,237,0.5)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 35px rgba(124,58,237,0.6), 0 0 70px rgba(124,58,237,0.3)';"
+    />
+  </div>
 </div>
 
 <br/>
@@ -31,12 +43,15 @@
 <!-- ================= MAIN TITLE ================= -->
 
 <h1 style="
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Segoe UI', 'Inter', sans-serif;
   font-size: 52px;
   font-weight: 800;
   letter-spacing: 2px;
-  margin-bottom: 10px;
-  color: white;
+  margin-bottom: 12px;
+  background: linear-gradient(135deg, #FFFFFF 0%, #C4B5FD 50%, #A78BFA 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 15px rgba(167,139,250,0.3);
 ">
   Sakhi Ardra Handaru
 </h1>
@@ -55,22 +70,37 @@ through clean architecture, scalable systems, elegant interfaces, and performanc
 
 <br/>
 
-<!-- ================= CYBER TYPING ================= -->
+<!-- ================= CYBER TYPING (DYNAMIC) ================= -->
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Designing+Elegant+User+Experiences;Developing+Scalable+Backend+Systems;Optimizing+Performance+%26+SEO;Exploring+Creative+Technologies" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2300&pause=750&color=A78BFA&center=true&vCenter=true&width=950&lines=✦+Fullstack+Architect+✦;✦+UI%2FUX+Craftsman+✦;✦+SEO+Optimizer+✦;✦+Creative+Technologist+✦;✦+Open+Source+Contributor+✦" 
 />
 
 <br/>
 <br/>
 
-<!-- ================= TECH BADGES ================= -->
+<!-- ================= TECH BADGES (TAMBAHAN EFEK) ================= -->
 
 <img 
-  src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,php,mysql,java,cpp,python,git,figma,vscode&theme=dark" 
+  src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,php,mysql,java,cpp,python,git,figma,vscode&theme=dark" 
+  style="transition: opacity 0.3s;"
 />
 
 <br/>
+<br/>
+
+<!-- ================= CUSTOM MINI BADGES ================= -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🌟_ACTIVE_ON_GITHUB-18181B?style=flat-square&logo=github&logoColor=white&color=7C3AED" />
+
+<img src="https://img.shields.io/badge/🚀_AVAILABLE_FOR_COLLAB-18181B?style=flat-square&logo=starship&logoColor=white&color=4F46E5" />
+
+<img src="https://img.shields.io/badge/📅_4TH_SEMESTER-18181B?style=flat-square&logo=google-calendar&logoColor=white&color=EC4899" />
+
+</p>
+
 <br/>
 
 <!-- ================= SOCIAL BUTTONS ================= -->
@@ -93,29 +123,42 @@ through clean architecture, scalable systems, elegant interfaces, and performanc
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-sakhi.vercel.app/">
+<a href="https://sakhiardra.my.id">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
-<!-- ================= ANALYTICS ================= -->
+<br/>
+
+<!-- ================= ANALYTICS (GLASS EFFECT) ================= -->
 
 <p align="center">
 
+<span style="
+  background: rgba(124,58,237,0.12);
+  padding: 8px 20px;
+  border-radius: 60px;
+  backdrop-filter: blur(4px);
+  display: inline-flex;
+  gap: 25px;
+">
+
 <img 
-  src="https://komarev.com/ghpvc/?username=skirdrax&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" 
+  src="https://komarev.com/ghpvc/?username=skirdrax&label=✨+PROFILE+VIEWS+✨&color=7C3AED&style=for-the-badge" 
 />
 
 <img 
-  src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&color=7C3AED&labelColor=0F172A" 
+  src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&color=7C3AED&labelColor=0F172A&logo=github&label=⭐%20FOLLOWERS" 
 />
+
+</span>
 
 </p>
 
 <br/>
 
-<!-- ================= FOOTER WAVE ================= -->
+<!-- ================= FOOTER WAVE (MATCHING HEADER) ================= -->
 
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:312E81,100:0F172A" 
