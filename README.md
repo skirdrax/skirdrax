@@ -7,13 +7,17 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE ================= -->
+<!-- ================= FLOATING PROFILE (ANIMASI GIF) ================= -->
 
 <div align="center" style="margin-top:-115px;">
   <img 
-    src="https://github.com/skirdrax.png" 
+    src="https://i.pinimg.com/originals/5a/7a/3c/5a7a3cdb5c11c462572f7953c266dd63.gif" 
     width="170"
-    style="border-radius: 50%; border: 4px solid #7C3AED; box-shadow: 0 0 30px rgba(124,58,237,0.6);"
+    style="
+      border-radius: 50%;
+      border: 4px solid #7C3AED;
+      box-shadow: 0 0 30px rgba(124,58,237,0.6);
+    "
   />
 </div>
 <br/>
