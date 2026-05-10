@@ -1,55 +1,30 @@
 <div align="center">
   
-  <!-- 3D Wave Header dengan Gradient Animasi -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Sᴀᴋʜɪ%20Aʀᴅʀᴀ&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn&gradientColor1=4F46E5&gradientColor2=7C3AED&gradientColor3=EC4899&gradientColor4=06B6D4" width="100%" />
+  <!-- Anime Style Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=250&section=header&text=Sakhi%20Ardra&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=twinkling&gradientColor1=1E1B4B&gradientColor2=5B21B6&gradientColor3=BE185D" width="100%" />
   
   <br/>
   
-  <!-- Glowing Border Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=1&pause=10000&color=7C3AED&center=true&vCenter=true&width=600&lines=✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦" />
+  <!-- Hacker Style Typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=600&color=00FF00&center=true&vCenter=true&width=800&lines=root@sakhi~%24+Web+Developer;root@sakhi~%24+UI%2FUX+Designer;root@sakhi~%24+SEO+Specialist;root@sakhi~%24+exit;>_+System+Ready" />
   
   <br/>
   
-  <!-- Matrix Style Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=800&color=F5F5F5&center=true&vCenter=true&width=900&height=80&lines=%3E+WEB+DEVELOPER+%3C;%3E+UI%2FUX+DESIGNER+%3C;%3E+SEO+SPECIALIST+%3C;%3E+NETWORK+ENGINEER+%3C;%3E+IoT+ENTHUSIAST+%3C" />
-  
-  <br/>
-  
-  <!-- Neon Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=500&color=A78BFA&center=true&vCenter=true&width=700&lines=❝+Building+digital+solutions+for+real-world+impact+❞" />
-  
-  <br/>
-  <br/>
-  
-  <!-- Animated Decorative Elements -->
-  <div>
-    <span style="display: inline-block; animation: spin 4s linear infinite;">✦</span>
-    <span style="color: #7C3AED;"> ✦ ✦ ✦ </span>
-    <span style="display: inline-block; animation: spin 4s linear infinite reverse;">✦</span>
-  </div>
-  
-  <br/>
-  
-  <!-- Status Badges -->
+  <!-- Elegant Quote -->
   <p align="center">
-    <img src="https://img.shields.io/badge/🚀_AVAILABLE_FOR_WORK-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" />
-    <img src="https://img.shields.io/badge/📧_OPEN_TO_COLLABORATION-A78BFA?style=for-the-badge&logo=maildotru&logoColor=white" />
-    <img src="https://img.shields.io/badge/💡_CREATIVE_TECHNOLOGIST-7C3AED?style=for-the-badge&logo=lightbulb&logoColor=white" />
+    <i>"Code is poetry written in logic"</i>
   </p>
   
-  <br/>
-  
-  <!-- Glowing Command Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=100&color=22C55E&center=true&vCenter=true&width=500&lines=%24_npx+sakhi-ardra+--skills;%24_cd+portfolio;%24_npm+run+deploy;%24_echo+'Ready+to+build!';%24_" />
-  
-  <br/>
-  
-  <!-- Elegant Separator -->
-  <img src="https://custom-icon-badges.demolab.com/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-7C3AED?style=flat-square&logoColor=white" />
+  <!-- Social Links Preview -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
+  </p>
   
 </div>
 
-<!-- Smooth Scroll Animation -->
 <br/>
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
