@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/skirdrax?style=plastic&logo=github&color=7C3AED&labelColor=0F172A&label=Followers" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=skirdrax&style=plastic&color=7C3AED&label=👀+Views&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=skirdrax&style=plastic&color=7C3AED&label=👀+Views&nbsp;&nbsp;&abbreviated=true" />
 </div>
 <br>
 
