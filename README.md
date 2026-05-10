@@ -7,30 +7,34 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE (ANIMATED EMOJI) ================= -->
+<!-- ================= FLOATING PROFILE (ANIMASI BERJALAN) ================= -->
 
 <div align="center" style="margin-top:-115px;">
   <div style="
     width: 170px;
     height: 170px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #1E1B4B, #312E81);
+    background: linear-gradient(135deg, #7C3AED, #A855F7);
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 4px solid #7C3AED;
-    box-shadow: 0 0 30px rgba(124,58,237,0.8);
-    animation: bounce 1.5s ease-in-out infinite;
-    font-size: 90px;
+    border: 4px solid #FFFFFF;
+    box-shadow: 0 0 30px rgba(124,58,237,0.6);
+    animation: lari 1.2s ease-in-out infinite;
   ">
-    <span>🐱‍👤</span>
+    <span style="font-size: 85px; color: white;">
+      🏃‍♂️
+    </span>
   </div>
 </div>
 
 <style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
+  @keyframes lari {
+    0% { transform: translateX(0px) translateY(0px); }
+    25% { transform: translateX(10px) translateY(-5px); }
+    50% { transform: translateX(0px) translateY(0px); }
+    75% { transform: translateX(-10px) translateY(-5px); }
+    100% { transform: translateX(0px) translateY(0px); }
   }
 </style>
 <br/>
