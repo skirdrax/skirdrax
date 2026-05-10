@@ -1,42 +1,47 @@
-<!-- ==================== ELEGANT HEADER MINIMAL ==================== -->
 <div align="center">
   
-  <div style="background: linear-gradient(145deg, #0B0B14, #1A1A2E); padding: 50px 20px; border-radius: 35px; max-width: 900px; margin: auto; border: 1px solid rgba(168,85,247,0.2);">
-    
-    <!-- Nama dengan efek neon -->
-    <h1 style="font-size: 52px; font-weight: 800; background: linear-gradient(135deg, #FFFFFF, #A855F7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;">
-      Sakhi Ardra
-    </h1>
-    
-    <div style="width: 70px; height: 2px; background: linear-gradient(90deg, #A855F7, transparent); margin: 15px auto;"></div>
-    
-    <!-- Typing Role -->
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer;UI%2FUX+Designer;SEO+Expert" />
-    
-    <br/><br/>
-    
-    <!-- Viewer Stats -->
-    <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-      <div style="display: flex; align-items: center; gap: 8px;">
-        <span>👥</span>
-        <img src="https://komarev.com/ghpvc/?username=skirdrax&label=Views&color=A855F7&style=flat-square" />
-      </div>
-      <div style="display: flex; align-items: center; gap: 8px;">
-        <span style="color: #22C55E;">🟢</span>
-        <span style="font-size: 13px; color: #A1A1AA;">Active Now</span>
-      </div>
-    </div>
-    
-    <br/>
-    
-    <!-- Social Links -->
-    <div style="display: flex; justify-content: center; gap: 15px;">
-      <a href="https://github.com/skirdrax"><img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" /></a>
-      <a href="https://linkedin.com/in/sakhiardra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-      <a href="https://instagram.com/skhiii_adrr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-    </div>
-    
-  </div>
+  <!-- Banner Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=250&section=header&text=Sakhi%20Ardra&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  
+  <!-- Avatar / Profile Image (ganti link dengan foto kamu) -->
+  <img src="https://avatars.githubusercontent.com/skirdrax" width="120" style="border-radius: 50%; margin-top: -60px; border: 4px solid #4F46E5;" />
+  
+  <!-- Nama -->
+  <h1 align="center" style="color: #FFFFFF;">Sakhi Ardra Handaru</h1>
+  
+  <!-- Badge Role -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING_STUDENT-4F46E5?style=for-the-badge&logo=book&logoColor=white" />
+  </p>
+  
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=700&height=50&lines=Fullstack+Web+Developer;UI%2FUX+Designer;SEO+Specialist;IoT+Enthusiast" />
+  
+  <br/><br/>
+  
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=skirdrax&label=👥+PROFILE+VIEWS&color=4F46E5&style=flat-square" />
+  
+  <br/><br/>
+  
+  <!-- Social Links -->
+  <p align="center">
+    <a href="https://github.com/skirdrax"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/sakhiardra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/skhiii_adrr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:ardrasakhi390@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+  
+  <!-- Garis Pemisah -->
+  <img src="https://custom-icon-badges.demolab.com/badge/───────────────────────────────────-4F46E5?style=flat-square" />
+  
+  <!-- Quote -->
+  <p align="center">
+    <i>"Building meaningful digital experiences"</i>
+  </p>
+  
+  <!-- Bottom Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer" width="100%" />
   
 </div>
 
