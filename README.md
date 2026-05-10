@@ -7,36 +7,19 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE (ANIMASI BERJALAN) ================= -->
+<!-- ================= FLOATING PROFILE (ANIMASI GIF) ================= -->
 
 <div align="center" style="margin-top:-115px;">
-  <div style="
-    width: 170px;
-    height: 170px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, #7C3AED, #A855F7);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 4px solid #FFFFFF;
-    box-shadow: 0 0 30px rgba(124,58,237,0.6);
-    animation: lari 1.2s ease-in-out infinite;
-  ">
-    <span style="font-size: 85px; color: white;">
-      🏃‍♂️
-    </span>
-  </div>
+  <img 
+    src="https://media.tenor.com/C9do-7R7YkIAAAAi/run-boy-run.gif" 
+    width="170"
+    style="
+      border-radius: 50%;
+      border: 4px solid #7C3AED;
+      box-shadow: 0 0 30px rgba(124,58,237,0.6);
+    "
+  />
 </div>
-
-<style>
-  @keyframes lari {
-    0% { transform: translateX(0px) translateY(0px); }
-    25% { transform: translateX(10px) translateY(-5px); }
-    50% { transform: translateX(0px) translateY(0px); }
-    75% { transform: translateX(-10px) translateY(-5px); }
-    100% { transform: translateX(0px) translateY(0px); }
-  }
-</style>
 <br/>
 
 <!-- ================= MAIN TITLE ================= -->
