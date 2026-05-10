@@ -128,21 +128,17 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
     </tr>
     <tr>
       <td>00:00 - 06:59</td>
-      <td>HARI KEMARIN ❌</td>
+      <td>HARI KEMARIN </td>
     </tr>
     <tr>
       <td>07:00 - 23:59</td>
-      <td>HARI INI ✅</td>
+      <td>HARI INI </td>
     </tr>
   </table>
   
   <br/>
-  
-  <i>📌 Minimal 1 commit/hari</i>
-  <br/>
-  <i>🔥 Streak reset jika skip 1 hari</i>
-  <br/>
-  <i>💡 Rekomendasi: Commit Minimal jam commit biar dihitung jam <b> 07.00 WIB</b></i>
+
+  <i>💡 Rekomendasi: Minimal commit jam biar nyala strike adalah jam <b> 07.00 WIB</b></i>
   
   <br>
   
