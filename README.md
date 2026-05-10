@@ -119,6 +119,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 
 <div align="center">
   <i>⏰ <b>Aturan WIB vs UTC (GitHub)</b></i>
+  <br>
   <i>contoh tanggal 10 Mei 2026</i>
   <br/><br/>
   
@@ -129,11 +130,11 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
     </tr>
     <tr>
       <td>00:00 - 06:59 | 10 Mei 2026</td>
-      <td>10 Mei 2026 </td>
+      <td>10 Mei 2026 ✖️</td>
     </tr>
     <tr>
       <td>07:00 - 23:59 | 10 Mei 2026</td>
-      <td>11 Mei 2026 ✅ </td>
+      <td>11 Mei 2026 ✔️ </td>
     </tr>
   </table>
   
