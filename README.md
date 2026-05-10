@@ -173,9 +173,16 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 
 <!-- Footer Section -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
   <br/>
-  <i>"Code is poetry, meant to be written elegantly."</i>
+  <table border="0" cellpadding="10" style="background: transparent;">
+    <tr>
+      <td align="center">
+        ✨ <i>"Masukkan quotes favoritmu di sini"</i> ✨
+        <br/>
+        <b>- Sakhi Ardra</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
