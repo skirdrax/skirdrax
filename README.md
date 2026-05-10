@@ -67,7 +67,7 @@ through clean architecture, scalable systems, elegant interfaces, and performanc
 <!-- ================= TECH BADGES ================= -->
 
 <img 
-  src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,php,mysql,java,cpp,python,git,figma,vscode&theme=dark" 
+  src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,php,mysql,java,cpp,python,git,figma,vscode&theme=dark" 
 />
 
 <br/>
