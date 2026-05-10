@@ -1,32 +1,34 @@
 <div align="center">
-  <!-- BANNER: ULTRA-WIDE SLICE WITH INTENSE TWINKLING -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=7C3AED&height=320&section=header&text=SAKHI%20ARDRA&fontSize=95&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=SOFTWARE%20ENGINEERING%20•%20FULLSTACK%20DEVELOPER%20•%20UI/UX%20DESIGNER%20•%20SEO%20STRATEGIST&descAlignY=65&descSize=20" width="100%" />
+  <!-- BANNER: ULTRA-WIDE SHARP SLICE DENGAN ANIMASI TWINKLING -->
+  <!-- Parameter: fontSize=95 untuk dominasi visual, animation=twinkling untuk efek bintang dinamis -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=7C3AED&height=320&section=header&text=SAKHI%20ARDRA&fontSize=95&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=SOFTWARE%20ENGINEERING%20•%20FULLSTACK%20DEVELOPER%20•%20UI/UX%20DESIGNER&descAlignY=65&descSize=20" width="100%" />
 
-  <!-- AVATAR: NEON SQUARE GLOW -->
+  <!-- AVATAR: NEON SQUARE GLOW DENGAN BOX-SHADOW INTENS -->
+  <!-- Menggunakan style margin-negative untuk efek floating di atas banner -->
   <div style="margin-top: -120px;">
     <img src="https://avatars.githubusercontent.com/skirdrax" width="160" style="border-radius: 25px; border: 6px solid #7C3AED; box-shadow: 0 0 35px rgba(124, 58, 237, 0.9), 0 0 15px rgba(0, 255, 255, 0.6);" />
   </div>
 
-  <!-- NAMA: BOLDER & SHARPER -->
-  <h1 align="center" style="color: #ffffff; font-size: 40px; margin-top: 15px;">SAKHI ARDRA HANDARU</h1>
+  <!-- NAMA LENGKAP: BOLD & LARGE -->
+  <h1 align="center" style="color: #ffffff; font-size: 40px; margin-top: 15px; border: none;">SAKHI ARDRA HANDARU</h1>
 
-  <!-- ROLE BADGES: VISUAL NEON STYLE -->
+  <!-- DYNAMIC STATUS & LOCATION BADGES -->
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/LOCATION-INDRAMAYU_/_TANGERANG-ffffff?style=for-the-badge&logo=google-maps&logoColor=7C3AED" />
   </p>
 
-  <!-- TYPING EFFECT: BRUTAL TERMINAL STYLE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=700&height=65&lines=%3E_Architecting+Digital+Solutions;%3E_Solving+Complex+Problems;%3E_Optimizing+Web+Performance" />
+  <!-- TERMINAL TYPING EFFECT: UKURAN BESAR & LEBIH CEPAT -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=700&height=65&lines=%3E_Architecting+Digital+Solutions;%3E_Solving+Complex+Problems;%3E_Optimizing+Web+Performance;%3E_Building+Scalable+Backend" />
 
   <br/>
 
-  <!-- VISITOR COUNTER: SLEEK FLAT-SQUARE -->
+  <!-- VISITOR COUNTER: MODERN FLAT STYLE -->
   <img src="https://komarev.com/ghpvc/?username=skirdrax&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
 
   <br/><br/>
 
-  <!-- SOCIAL LINKS: MINIMALIST NEON ICONS -->
+  <!-- SOCIAL LINKS: MINIMALIST LOGO DENGAN AKSEN UNGU -->
   <p align="center">
     <a href="https://github.com/skirdrax"><img src="https://img.shields.io/badge/-GitHub-18181B?style=flat-square&logo=github&logoColor=white" /></a>
     <a href="https://linkedin.com/in/sakhiardra"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -35,7 +37,7 @@
     <a href="mailto:ardrasakhi390@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   </p>
 
-  <!-- SEPARATOR: FULL NEON LINE -->
+  <!-- NEON LINE SEPARATOR: PENUTUP HEADER YANG BRUTAL -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=footer" width="100%" />
 
   <br/>
