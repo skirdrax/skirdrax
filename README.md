@@ -177,14 +177,16 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
   <table border="0" cellpadding="10" style="background: transparent;">
     <tr>
       <td align="center">
-        <i>"1,5 tahun saya difitnah, saya diam. Dijelek-jelekin, saya diam. Dicela, direndah-rendahkan, saya diam. Dihujat, dihina-hina, saya diam. Tetapi hari ini di GitHub saya sampaikan, saya akan lawan!</i> 
+        <h2><i>"1,5 tahun saya difitnah, saya diam. Dijelek-jelekin, saya diam. Dicela, direndah-rendahkan, saya diam. Dihujat, dihina-hina, saya diam. Tetapi hari ini di GitHub saya sampaikan, saya akan lawan!"</i></h2>
         <br/>
-        <b>- Sakhi Ardra</b>
+        <h1><b>- Sakhi Ardra</b></h1>
       </td>
     </tr>
   </table>
 </div>
 
+<br/>
+
 <div align="center">
-  <b> Terimakasih telah mampir di profil saya!✨ </b>
+  <h1><b>✨ Terimakasih telah mampir di profil saya! ✨</b></h1>
 </div>
