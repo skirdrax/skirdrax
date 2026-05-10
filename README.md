@@ -1,123 +1,44 @@
-<!-- ==================== PREMIUM HEADER ==================== -->
+<!-- ==================== ELEGANT HEADER MINIMAL ==================== -->
 <div align="center">
   
-  <!-- Background Container -->
-  <div style="background: linear-gradient(145deg, #0B0B14 0%, #1A1A2E 50%, #0F0F1A 100%); padding: 40px 20px 50px; border-radius: 40px; max-width: 950px; margin: auto; box-shadow: 0 30px 60px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.05); border: 1px solid rgba(168,85,247,0.15);">
+  <div style="background: linear-gradient(145deg, #0B0B14, #1A1A2E); padding: 50px 20px; border-radius: 35px; max-width: 900px; margin: auto; border: 1px solid rgba(168,85,247,0.2);">
     
-    <!-- Avatar dengan Glow -->
-    <div style="position: relative; display: inline-block;">
-      <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(135deg, #4F46E5, #A855F7, #EC4899); border-radius: 50%; opacity: 0.6; filter: blur(20px); animation: auraPulse 3s ease-in-out infinite;"></div>
-      <img src="https://avatars.githubusercontent.com/skirdrax" style="width: 110px; height: 110px; border-radius: 50%; border: 3px solid #A855F7; box-shadow: 0 15px 30px rgba(168,85,247,0.3); object-fit: cover;" />
-    </div>
-    
-    <br/><br/>
-    
-    <!-- Nama Gradient -->
-    <h1 style="font-family: 'Inter', sans-serif; font-size: 44px; font-weight: 700; background: linear-gradient(135deg, #FFFFFF 0%, #C4B5FD 60%, #A855F7 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0; letter-spacing: -0.02em;">
+    <!-- Nama dengan efek neon -->
+    <h1 style="font-size: 52px; font-weight: 800; background: linear-gradient(135deg, #FFFFFF, #A855F7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;">
       Sakhi Ardra
     </h1>
     
-    <!-- Role Badge -->
-    <div style="margin-top: 12px;">
-      <span style="background: rgba(168,85,247,0.12); padding: 5px 16px; border-radius: 30px; font-size: 12px; font-weight: 500; color: #C4B5FD; border: 1px solid rgba(168,85,247,0.3); backdrop-filter: blur(4px);">
-        ✦ SOFTWARE ENGINEERING STUDENT ✦
-      </span>
-    </div>
+    <div style="width: 70px; height: 2px; background: linear-gradient(90deg, #A855F7, transparent); margin: 15px auto;"></div>
     
-    <br/>
-    
-    <!-- Elegant Divider -->
-    <div style="width: 50px; height: 2px; background: linear-gradient(90deg, transparent, #A855F7, transparent); margin: 16px auto;"></div>
-    
-    <!-- Typing Effect -->
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Fullstack+Web+Developer;UI%2FUX+Designer;SEO+Specialist;Network+Enthusiast;IoT+Explorer" />
+    <!-- Typing Role -->
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer;UI%2FUX+Designer;SEO+Expert" />
     
     <br/><br/>
     
-    <!-- === VIEWER STATS & ACTIVE USERS === -->
-    <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-      
-      <!-- Total Visitors -->
-      <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); padding: 10px 22px; border-radius: 50px; border: 1px solid rgba(168,85,247,0.2); display: flex; align-items: center; gap: 10px;">
-        <span style="font-size: 22px;">👥</span>
-        <div>
-          <div style="font-size: 10px; color: #A1A1AA; letter-spacing: 0.5px;">TOTAL VISITORS</div>
-          <img src="https://komarev.com/ghpvc/?username=skirdrax&label=&color=A855F7&style=flat-square" style="height: 22px;" />
-        </div>
+    <!-- Viewer Stats -->
+    <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span>👥</span>
+        <img src="https://komarev.com/ghpvc/?username=skirdrax&label=Views&color=A855F7&style=flat-square" />
       </div>
-      
-      <!-- Live Active Now -->
-      <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); padding: 10px 22px; border-radius: 50px; border: 1px solid rgba(168,85,247,0.2); display: flex; align-items: center; gap: 10px;">
-        <span style="font-size: 22px; animation: pulseGreen 1.5s ease-in-out infinite;">🟢</span>
-        <div>
-          <div style="font-size: 10px; color: #A1A1AA; letter-spacing: 0.5px;">ACTIVE NOW</div>
-          <div style="font-size: 16px; font-weight: 600; color: #22C55E;">1 Viewer</div>
-        </div>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="color: #22C55E;">🟢</span>
+        <span style="font-size: 13px; color: #A1A1AA;">Active Now</span>
       </div>
-      
-      <!-- GitHub Followers -->
-      <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); padding: 10px 22px; border-radius: 50px; border: 1px solid rgba(168,85,247,0.2); display: flex; align-items: center; gap: 10px;">
-        <span style="font-size: 22px;">⭐</span>
-        <div>
-          <div style="font-size: 10px; color: #A1A1AA; letter-spacing: 0.5px;">FOLLOWERS</div>
-          <div style="font-size: 16px; font-weight: 600; color: #FBBF24;">20+</div>
-        </div>
-      </div>
-      
     </div>
     
     <br/>
     
-    <!-- Live Activity Indicator -->
-    <div style="display: inline-flex; align-items: center; gap: 8px; background: rgba(34,197,94,0.08); padding: 4px 14px; border-radius: 30px; margin-top: 15px;">
-      <span style="width: 7px; height: 7px; background: #22C55E; border-radius: 50%; display: inline-block; animation: blink 1.5s ease-in-out infinite;"></span>
-      <span style="font-size: 11px; color: #22C55E; font-weight: 500;">Active on GitHub</span>
-    </div>
-    
-    <br/><br/>
-    
-    <!-- Social Links Elegant -->
-    <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-      <a href="https://github.com/skirdrax" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" style="transition: all 0.3s;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
-      </a>
-      <a href="https://linkedin.com/in/sakhiardra" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: all 0.3s;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
-      </a>
-      <a href="https://instagram.com/skhiii_adrr" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="transition: all 0.3s;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
-      </a>
-      <a href="mailto:ardrasakhi390@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: all 0.3s;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
-      </a>
-    </div>
-    
-    <br/>
-    
-    <!-- Profile Views Counter Bottom -->
-    <div style="margin-top: 20px;">
-      <img src="https://komarev.com/ghpvc/?username=skirdrax&label=✨+PROFILE+VIEWS+✨&color=A855F7&style=flat-square" />
+    <!-- Social Links -->
+    <div style="display: flex; justify-content: center; gap: 15px;">
+      <a href="https://github.com/skirdrax"><img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/sakhiardra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <a href="https://instagram.com/skhiii_adrr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
     </div>
     
   </div>
   
 </div>
-
-<!-- ==================== CSS ANIMATIONS ==================== -->
-<style>
-  @keyframes auraPulse {
-    0%, 100% { opacity: 0.4; filter: blur(18px); transform: scale(1); }
-    50% { opacity: 0.7; filter: blur(22px); transform: scale(1.02); }
-  }
-  @keyframes pulseGreen {
-    0%, 100% { opacity: 1; transform: scale(1); }
-    50% { opacity: 0.6; transform: scale(1.1); }
-  }
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; }
-  }
-</style>
 
 <br/>
 <!-- About Me Section -->
