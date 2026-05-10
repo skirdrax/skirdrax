@@ -21,10 +21,11 @@
 
 <!-- ================= TECH BADGES ================= -->
 
-<img src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&logo=github&color=7C3AED&labelColor=0F172A&label=Followers" />
-
-<img src="https://img.shields.io/badge/👀%20VIEWS-0?style=for-the-badge&labelColor=0F172A&color=7C3AED" />
-<br/>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/skirdrax?style=for-the-badge&logo=github&color=7C3AED&labelColor=0F172A&label=Followers" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=skirdrax&style=for-the-badge&color=7C3AED&label=👀+Views&abbreviated=true" />
+</div>
 <br>
 
 <!-- ================= SOCIAL BUTTONS ================= -->
