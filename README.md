@@ -1,92 +1,61 @@
-<!--- ═══════════════════════════════════════════════════════════════ --->
-<!---                  🚀 SAKHI ARDRA - PRO HEADER 🚀                 --->
-<!--- ═══════════════════════════════════════════════════════════════ --->
-
 <div align="center">
   
-  <!-- 1. GLASSMORPHISM 3D HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=400&section=header&text=⎋+SAKHI+ARDRA+⎋&fontSize=70&fontAlignY=45&fontColor=ffffff&animation=twinkling&gradientColor1=0F172A&gradientColor2=4F46E5&gradientColor3=EC4899&gradientColor4=06B6D4&rotate=0" width="100%" />
+  <table border="0" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #0F0F1A 0%, #1A1A2E 100%); border-radius: 30px; padding: 50px 30px;">
+        
+        <!-- Luxury Gold Name -->
+        <h1 style="font-family: 'Playfair Display', serif; font-size: 64px; font-weight: 700; background: linear-gradient(135deg, #FFFFFF 0%, #C4B5FD 50%, #7C3AED 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;">
+          Sakhi Ardra
+        </h1>
+        
+        <br/>
+        
+        <!-- Gold Divider -->
+        <div style="width: 80px; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, transparent); margin: 20px auto;"></div>
+        
+        <br/>
+        
+        <!-- Professional Title -->
+        <p style="font-family: 'Inter', sans-serif; font-size: 16px; color: #A78BFA; letter-spacing: 4px; margin: 0;">
+          FULLSTACK WEB DEVELOPER
+        </p>
+        
+        <br/>
+        
+        <!-- 3D Animated Typing -->
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=500&color=F5F5F5&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;SEO+Architect;Network+Specialist;IoT+Creator" />
+        
+        <br/>
+        <br/>
+        
+        <!-- Subtle Badges -->
+        <p align="center">
+          <img src="https://img.shields.io/badge/✧_4TH_SEMESTER_✧-1E1B4B?style=flat-square&color=4F46E5&labelColor=1E1B4B" />
+          <img src="https://img.shields.io/badge/✧_POLITEKNIK_NEGERI_INDRAMAYU_✧-1E1B4B?style=flat-square&color=7C3AED&labelColor=1E1B4B" />
+        </p>
+        
+        <br/>
+        
+        <!-- Call to Action -->
+        <p align="center">
+          <a href="#">
+            <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        
+      </td>
+    </tr>
+  </table>
   
-  <br/>
-  
-  <!-- 2. NEON GLOW EFFECT (RGB) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1&pause=10000&color=FF00FF&center=true&vCenter=true&width=900&lines=%3C%2F%3E+%3C%2F%3E+%3C%2F%3E+%3C%2F%3E+%3C%2F%3E+%3C%2F%3E+%3C%2F%3E+%3C%2F%3E+%3C%2F%3E+%3C%2F%3E+%3C%2F%3E+%3C%2F%3E" />
-  
-  <br/>
-  
-  <!-- 3. MATRIX RAIN TYPING -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2000&pause=400&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=%5B+WEB+DEVELOPER+%5D;%5B+UI%2FUX+MAESTRO+%5D;%5B+SEO+ARCHITECT+%5D;%5B+NETWORK+SCULPTOR+%5D;%5B+IoT+VISIONARY+%5D" />
-  
-  <br/>
-  
-  <!-- 4. HOLOGRAPHIC LINE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=1&pause=10000&color=FFFFFF&center=true&vCenter=true&width=900&lines=░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░" />
-  
-  <br/>
-  
-  <!-- 5. QUOTE DENGAN EFEK GLOW -->
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=800&lines=%E2%80%9CTransforming+ideas+into+digital+masterpieces%E2%80%9D;%E2%80%9CCode.+Create.+Innovate.+Repeat.%E2%80%9D;%E2%80%9CBuilding+the+web%2C+one+line+at+a+time%E2%80%9D" />
-  
-  <br/>
-  <br/>
-  
-  <!-- 6. 3D ANIMATED BUTTONS / BADGES -->
+  <!-- Visitor Counter -->
   <p align="center">
-    <img src="https://img.shields.io/badge/◢_ACTIVE_STATUS_◣-⚡_READY_TO_COLLABORATE_⚡-0F172A?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=7C3AED&color=0F172A" />
-  </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/🎯_CURRENT_FOCUS-REACT_%2B_NEXT.JS-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/🎨_DESIGN_TOOLS-FIGMA_%2B_AI-EC4899?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/📈_SEO_MASTERY-GOOGLE_ANALYTICS-06B6D4?style=for-the-badge&logo=google&logoColor=white" />
-  </p>
-  
-  <br/>
-  
-  <!-- 7. TERMINAL COMMAND ANIMATION -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=100&color=FBBF24&center=true&vCenter=true&width=600&lines=%24_npx+sakhi-ardra+--show+skills;%24_>_React+Expert_✓;%24_>_Tailwind+Master_✓;%24_>_UI%2FUX+Designer_✓;%24_>_SEO+Specialist_✓;%24_>_Ready+for+work!" />
-  
-  <br/>
-  
-  <!-- 8. ANIMATED DECORATIVE STARS -->
-  <div>
-    <span style="display: inline-block; animation: spin 3s linear infinite;">✨</span>
-    <span style="display: inline-block; animation: bounce 1s ease infinite;">✦</span>
-    <span style="display: inline-block; animation: pulse 1.5s ease infinite;">⭐</span>
-    <span style="display: inline-block; animation: spin 4s linear infinite reverse;">🌟</span>
-    <span style="display: inline-block; animation: bounce 1.5s ease infinite 0.5s;">💫</span>
-  </div>
-  
-  <br/>
-  
-  <!-- 9. ELEGANT SEPARATOR (FULL WIDTH) -->
-  <img src="https://custom-icon-badges.demolab.com/badge/════════════════════════════════════════════════════════════════════════════════════════════════-7C3AED?style=flat-square" />
-  
-  <br/>
-  
-  <!-- 10. VISITOR COUNTER -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=skirdrax&style=for-the-badge&color=7C3AED&label=✦+PROFILE+VIEWS+✦" />
+    <img src="https://komarev.com/ghpvc/?username=skirdrax&style=flat-square&color=4F46E5&label=views" />
   </p>
   
 </div>
 
-<!-- CSS ANIMATIONS -->
-<style>
-  @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  @keyframes pulse {
-    0%, 100% { opacity: 0.3; transform: scale(0.8); }
-    50% { opacity: 1; transform: scale(1.2); }
-  }
-</style>
-
+<br/>
 <br/>
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
