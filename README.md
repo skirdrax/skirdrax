@@ -56,19 +56,30 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 
 ---
 
-<!-- GitHub Contributions Section -->
+---
+
 ## 📊 GitHub Contributions
 
 <div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=skirdrax&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=7C3AED&icon_color=7C3AED" width="48%" alt="Sakhi's GitHub Stats" />
+  <!-- GitHub Stats - Menggunakan Mirror Vercel yang lebih cepat -->
+  <img src="https://github-readme-stats.vercel.app/api?username=skirdrax&show_icons=true&theme=transparent&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED&hide_border=true" width="48%" />
   
-  <!-- Language Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skirdrax&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=7C3AED&icon_color=7C3AED" width="48%" alt="Top Languages" />
+  <!-- Top Languages - Menampilkan bahasa pemrograman yang kamu kuasai -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skirdrax&layout=compact&theme=transparent&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED&hide_border=true" width="48%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skirdrax&theme=dark&hide_border=true" width="100%" />
+  <!-- GitHub Streak - Menggunakan versi yang lebih stabil -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skirdrax&theme=dark&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Activity Graph - Ini adalah alternatif keren jika yang lain masih error -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skirdrax&bg_color=00000000&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
