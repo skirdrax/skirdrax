@@ -1,35 +1,35 @@
 <!-- ================= HEADER ================= -->
-<div style="background: linear-gradient(135deg, #0F172A, #1E293B); padding: 50px 20px; border-radius: 20px; box-shadow: 0 16px 40px rgba(0,0,0,0.4); max-width: 1200px; margin: auto; overflow: hidden; font-family: 'Poppins', sans-serif;">
+<div style="background: linear-gradient(135deg, #0F172A, #1E293B); padding: 60px 30px; border-radius: 25px; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4); max-width: 1200px; margin: auto; overflow: hidden; font-family: 'Poppins', sans-serif; position: relative;">
 
   <!-- Gambar Header Utama dengan efek glow dan animasi -->
-  <div style="position: relative; width: 100%; max-height: 400px; overflow: hidden; border-radius: 15px; box-shadow: 0 8px 30px rgba(30, 41, 59, 0.6);">
+  <div style="position: relative; width: 100%; max-height: 420px; overflow: hidden; border-radius: 20px; box-shadow: 0 12px 40px rgba(30, 41, 59, 0.7);">
     <img 
       src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F172A,50:111827,100:1E293B&text=Sakhi%20Ardra&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=56&descSize=18&animation=fadeIn" 
-      style="width: 100%; height: auto; display: block; transition: transform 0.8s ease-in-out; animation: pulse 10s infinite alternate;"
+      style="width: 100%; height: auto; display: block; transition: transform 1s ease-in-out; animation: pulse 12s infinite alternate;"
       alt="Header Image"
     />
   </div>
 
-  <!-- Overlay Nama dan Deskripsi dengan efek neon dan animasi -->
-  <div style="position: absolute; top: 20%; left: 50%; transform: translateX(-50%); width: 90%; max-width: 800px; background: rgba(30, 41, 59, 0.75); padding: 30px; border-radius: 20px; backdrop-filter: blur(15px); border: 2px solid #38bdf8; box-shadow: 0 0 30px #38bdf8, 0 0 60px #38bdf8 inset; animation: float 6s ease-in-out infinite;">
-    <h1 style="color: #38bdf8; font-family: 'Arial Rounded MT Bold', sans-serif; font-size: 3.5em; margin: 0; text-align: center; text-shadow: 0 0 10px #38bdf8, 0 0 20px #38bdf8;">
+  <!-- Overlay Nama dan Deskripsi, dengan efek neon dan animasi floating -->
+  <div style="position: absolute; top: 20%; left: 50%; transform: translateX(-50%); width: 90%; max-width: 820px; background: rgba(30, 41, 59, 0.8); padding: 40px; border-radius: 20px; backdrop-filter: blur(20px); border: 2px solid #38bdf8; box-shadow: 0 0 50px #38bdf8, 0 0 100px #38bdf8 inset; animation: float 8s ease-in-out infinite;">
+    <h1 style="color:#38bdf8; font-family: 'Arial Rounded MT Bold', sans-serif; font-size: 4em; margin: 0; text-align: center; text-shadow: 0 0 12px #38bdf8, 0 0 24px #38bdf8;">
       Sakhi Ardra
     </h1>
-    <p style="color: #CBD5E0; font-size: 1.4em; margin-top: 10px; text-align: center; font-weight: 600; letter-spacing: 1px;">
+    <p style="color:#CBD5E0; font-size: 1.5em; margin-top: 12px; text-align: center; font-weight: 600; letter-spacing: 1px; line-height: 1.4;">
       Web Developer | UI/UX Enthusiast | Frontend & Backend Engineer | Lifelong Learner
     </p>
   </div>
 
-  <!-- SVG Typing Effect dengan efek glow dan animasi -->
-  <div style="margin-top: 40px; display: flex; justify-content: center; animation: flicker 3s infinite;">
+  <!-- SVG Typing Effect dengan efek glow dan gerak dinamis -->
+  <div style="margin-top: 50px; display: flex; justify-content: center; animation: flicker 3s infinite;">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2500&pause=1200&color=E2E8F0&center=true&vCenter=true&width=700&lines=Web+Developer;UI%2FUX+Enthusiast;Frontend+Engineer;Backend+Developer;Always+Learning+New+Things" 
       style="width: 100%; max-width: 700px;"
     />
   </div>
 
-  <!-- Sosial Media dan Kontak dengan efek glow dan hover -->
-  <div style="margin-top: 50px; display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+  <!-- Ikon sosial media dengan efek glow dan hover -->
+  <div style="margin-top: 50px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
     <a href="https://github.com/skirdrax" style="transition: all 0.3s; display:inline-block;">
       <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" class="glow-hover"/>
     </a>
@@ -44,8 +44,8 @@
     </a>
   </div>
 
-  <!-- Pengunjung Profile -->
-  <div style="margin-top: 40px; text-align: center;">
+  <!-- Pengunjung profile yang keren -->
+  <div style="margin-top: 60px; text-align: center;">
     <img 
       src="https://komarev.com/ghpvc/?username=skirdrax&label=Profile%20Views&color=111827&style=for-the-badge" 
       alt="Profile Views" 
@@ -60,26 +60,18 @@
     0% { transform: scale(1); }
     100% { transform: scale(1.02); }
   }
-
   @keyframes float {
     0% { transform: translateY(0); }
-    100% { transform: translateY(-10px); }
+    100% { transform: translateY(-15px); }
   }
-
   @keyframes flicker {
     0%, 100% { opacity: 1; }
     50% { opacity: 0.4; }
   }
-
-  @keyframes glow {
-    0%, 100% { box-shadow: 0 0 10px #38bdf8, 0 0 20px #38bdf8 inset; }
-    50% { box-shadow: 0 0 20px #38bdf8, 0 0 40px #38bdf8 inset; }
-  }
-
-  /* Hover glow effect for social icons */
+  /* Glow effect saat hover */
   .glow-hover:hover {
-    box-shadow: 0 0 15px #38bdf8, 0 0 30px #38bdf8 inset;
-    transform: scale(1.05);
+    box-shadow: 0 0 20px #38bdf8, 0 0 40px #38bdf8 inset;
+    transform: scale(1.07);
   }
 </style>
 <!-- About Me Section -->
