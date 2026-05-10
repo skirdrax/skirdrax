@@ -7,48 +7,6 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE ================= -->
-
-<div align="center" style="margin-top:-115px;">
-  <img 
-    src="https://github.com/skirdrax.png" 
-    width="170"
-    style="
-      border-radius: 50%;
-      border: 4px solid #7C3AED;
-      box-shadow: 0 0 30px rgba(124,58,237,0.6);
-      transition: transform 0.3s ease;
-    "
-    onmouseover="this.style.transform='scale(1.05)'"
-    onmouseout="this.style.transform='scale(1)'"
-  />
-</div>
-<br/>
-
-<!-- ================= MAIN TITLE ================= -->
-
-<h1 style="
-  font-family: 'Segoe UI', sans-serif;
-  font-size: 52px;
-  font-weight: 800;
-  letter-spacing: 2px;
-  margin-bottom: 10px;
-  color: white;
-">
-  Sakhi Ardra Handaru
-</h1>
-
-<!-- ================= SUBTITLE ================= -->
-
-<p style="
-  max-width: 760px;
-  font-size: 17px;
-  line-height: 1.9;
-  color: #CBD5E1;
-">
-Passionate software engineering student focused on building modern digital experiences 
-through clean architecture, scalable systems, elegant interfaces, and performance-driven solutions.
-</p>
 
 <br/>
 
