@@ -1,33 +1,56 @@
 <div align="center">
   
-  <!-- Neon Glow Effect -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=1&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=70&lines=SAKHI+ARDRA" />
-  </h1>
-
-  <!-- Elegant Subtitle with Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=500&color=A78BFA&center=true&vCenter=true&width=700&lines=❝+Crafting+digital+experiences+that+matter+❞" />
-
+  <!-- 3D Wave Header dengan Gradient Animasi -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Sᴀᴋʜɪ%20Aʀᴅʀᴀ&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn&gradientColor1=4F46E5&gradientColor2=7C3AED&gradientColor3=EC4899&gradientColor4=06B6D4" width="100%" />
+  
+  <br/>
+  
+  <!-- Glowing Border Line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=1&pause=10000&color=7C3AED&center=true&vCenter=true&width=600&lines=✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦+✦" />
+  
+  <br/>
+  
+  <!-- Matrix Style Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=800&color=F5F5F5&center=true&vCenter=true&width=900&height=80&lines=%3E+WEB+DEVELOPER+%3C;%3E+UI%2FUX+DESIGNER+%3C;%3E+SEO+SPECIALIST+%3C;%3E+NETWORK+ENGINEER+%3C;%3E+IoT+ENTHUSIAST+%3C" />
+  
+  <br/>
+  
+  <!-- Neon Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=500&color=A78BFA&center=true&vCenter=true&width=700&lines=❝+Building+digital+solutions+for+real-world+impact+❞" />
+  
   <br/>
   <br/>
-
-  <!-- Minimalist Role Tags -->
+  
+  <!-- Animated Decorative Elements -->
+  <div>
+    <span style="display: inline-block; animation: spin 4s linear infinite;">✦</span>
+    <span style="color: #7C3AED;"> ✦ ✦ ✦ </span>
+    <span style="display: inline-block; animation: spin 4s linear infinite reverse;">✦</span>
+  </div>
+  
+  <br/>
+  
+  <!-- Status Badges -->
   <p align="center">
-    <code>Web Developer</code> •
-    <code>UI/UX Designer</code> •
-    <code>SEO Specialist</code> •
-    <code>IoT Enthusiast</code>
+    <img src="https://img.shields.io/badge/🚀_AVAILABLE_FOR_WORK-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_OPEN_TO_COLLABORATION-A78BFA?style=for-the-badge&logo=maildotru&logoColor=white" />
+    <img src="https://img.shields.io/badge/💡_CREATIVE_TECHNOLOGIST-7C3AED?style=for-the-badge&logo=lightbulb&logoColor=white" />
   </p>
-
+  
+  <br/>
+  
+  <!-- Glowing Command Line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=100&color=22C55E&center=true&vCenter=true&width=500&lines=%24_npx+sakhi-ardra+--skills;%24_cd+portfolio;%24_npm+run+deploy;%24_echo+'Ready+to+build!';%24_" />
+  
+  <br/>
+  
   <!-- Elegant Separator -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-7C3AED?style=flat-square" />
-  </p>
-
+  <img src="https://custom-icon-badges.demolab.com/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-7C3AED?style=flat-square&logoColor=white" />
+  
 </div>
 
+<!-- Smooth Scroll Animation -->
 <br/>
-
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 
