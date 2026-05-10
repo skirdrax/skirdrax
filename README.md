@@ -1,48 +1,51 @@
 <!-- ================= HEADER ================= -->
+<div align="center" style="background: linear-gradient(135deg, #0F172A, #1E293B); padding: 20px 0; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 
-<div align="center">
+  <!-- Gambar Header Utama -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F172A,50:111827,100:1E293B&text=Sakhi%20Ardra&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=56&descSize=18&animation=fadeIn" 
+    width="100%" 
+    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"
+  />
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F172A,50:111827,100:1E293B&text=Sakhi%20Ardra&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=56&descSize=18&animation=fadeIn" 
-  width="100%" 
-/>
+  <!-- Overlay Nama dan Deskripsi dengan efek -->
+  <div style="margin-top:-110px; max-width: 700px; margin-left:auto; margin-right:auto; background: rgba(30, 41, 59, 0.8); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); box-shadow: 0 4px 20px rgba(0,0,0,0.4);">
+    <h1 style="color:#E2E8F0; font-family: 'Arial Rounded MT Bold', sans-serif; font-size: 2.5em; margin: 0;">Sakhi Ardra</h1>
+    <p style="color:#CBD5E0; font-size: 1.2em; margin-top: 8px;">Web Developer | UI/UX Enthusiast | Frontend Engineer | Backend Developer | Always Learning New Things</p>
+  </div>
 
-<div align="center" style="margin-top:-110px;">
+  <!-- SVG Typing Effect -->
+  <div style="margin-top: 20px;">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=1200&color=E2E8F0&center=true&vCenter=true&width=700&lines=Web+Developer;UI%2FUX+Enthusiast;Frontend+Engineer;Backend+Developer;Always+Learning+New+Things" 
+    />
+  </div>
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=1200&color=E2E8F0&center=true&vCenter=true&width=700&lines=Web+Developer;UI%2FUX+Enthusiast;Frontend+Engineer;Backend+Developer;Always+Learning+New+Things" 
-/>
+  <!-- Sosial Media dan Kontak -->
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/skirdrax" style="margin: 0 8px;">
+      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/sakhiardra" style="margin: 0 8px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/skhiii_adrr" style="margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="mailto:ardrasakhi390@gmail.com" style="margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </div>
 
-<br/><br/>
-
-<p align="center">
-  <a href="https://github.com/skirdrax">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/sakhiardra">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/skhiii_adrr">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:ardrasakhi390@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-<img 
-  src="https://komarev.com/ghpvc/?username=skirdrax&label=Profile%20Views&color=111827&style=for-the-badge" 
-/>
+  <!-- Pengunjung Profile -->
+  <div style="margin-top: 20px;">
+    <img 
+      src="https://komarev.com/ghpvc/?username=skirdrax&label=Profile%20Views&color=111827&style=for-the-badge" 
+      alt="Profile Views" 
+    />
+  </div>
 
 </div>
-
-</div>
-
 <!-- ================= END HEADER ================= -->
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
