@@ -1,4 +1,49 @@
+<!-- ================= HEADER ================= -->
 
+<div align="center">
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F172A,50:111827,100:1E293B&text=Sakhi%20Ardra&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=56&descSize=18&animation=fadeIn" 
+  width="100%" 
+/>
+
+<div align="center" style="margin-top:-110px;">
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=1200&color=E2E8F0&center=true&vCenter=true&width=700&lines=Web+Developer;UI%2FUX+Enthusiast;Frontend+Engineer;Backend+Developer;Always+Learning+New+Things" 
+/>
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://github.com/skirdrax">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/sakhiardra">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/skhiii_adrr">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ardrasakhi390@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<img 
+  src="https://komarev.com/ghpvc/?username=skirdrax&label=Profile%20Views&color=111827&style=for-the-badge" 
+/>
+
+</div>
+
+</div>
+
+<!-- ================= END HEADER ================= -->
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 
