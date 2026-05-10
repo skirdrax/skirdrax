@@ -7,22 +7,19 @@
   width="100%" 
 />
 
-<!-- ================= FLOATING PROFILE ================= -->
+<!-- ================= FLOATING PROFILE (ANIMASI MAKHLUK HIDUP) ================= -->
 
 <div align="center" style="margin-top:-115px;">
-  <div style="
-    width: 170px;
-    height: 170px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, #7C3AED, #EC4899);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 4px solid white;
-    box-shadow: 0 0 30px rgba(124,58,237,0.8);
-  ">
-    <span style="font-size: 70px; color: white; font-weight: bold; font-family: Arial;">SA</span>
-  </div>
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW15bG44Y3Zoa2Z0cWxiM2RkNXJ1bWZ1bG1yNWI2c2pwdjVkdXEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" 
+    width="180"
+    style="
+      border-radius: 50%;
+      border: 4px solid #7C3AED;
+      box-shadow: 0 0 30px rgba(124,58,237,0.8);
+      object-fit: cover;
+    "
+  />
 </div>
 <br/>
 
