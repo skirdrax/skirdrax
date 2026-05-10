@@ -60,8 +60,11 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 ## 📊 GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skirdrax&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skirdrax&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=skirdrax&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=7C3AED&icon_color=7C3AED" width="48%" alt="Sakhi's GitHub Stats" />
+  
+  <!-- Language Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skirdrax&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=7C3AED&icon_color=7C3AED" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center">
