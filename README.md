@@ -30,30 +30,31 @@
 
 <!-- ================= SOCIAL BUTTONS ================= -->
 
+<!-- Baris 1: Tombol sosial (ukuran normal) -->
 <p align="center">
-
-<a href="https://github.com/skirdrax">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sakhiardra">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/skhiii_adrr">
-  <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:ardrasakhi390@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.sakhiardra.my.id/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/skirdrax">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sakhiardra">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/skhiii_adrr">
+    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:ardrasakhi390@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+<!-- Jarak/Spasi -->
+<br/>
+
+<!-- Baris 2: Tombol Portfolio (ukuran lebih besar & di tengah) -->
+<p align="center">
+  <a href="https://www.sakhiardra.my.id/">
+    <img src="https://img.shields.io/badge/🌟 PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED&color=white&link=https://www.sakhiardra.my.id/" width="300"/>
+  </a>
+</p>
 
 <br/>
 
