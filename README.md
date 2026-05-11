@@ -52,7 +52,7 @@
 <!-- Baris 2: Tombol Portfolio (ukuran lebih besar & di tengah) -->
 <p align="center">
   <a href="https://www.sakhiardra.my.id/">
-    <img src="https://img.shields.io/badge/🌟 PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED&color=purple&link=https://www.sakhiardra.my.id/" width="300"/>
+    <img src="https://img.shields.io/badge/🌟 PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED&color= Dark Violet&link=https://www.sakhiardra.my.id/" width="300"/>
   </a>
 </p>
 
