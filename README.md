@@ -144,8 +144,11 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skirdrax&theme=dark&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED" width="100%" />
-</div>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=skirdrax&theme=dark&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED&cache=no" 
+    width="100%" 
+    alt="GitHub Streak Stats"
+  />
 
 <br/>
 
