@@ -3,7 +3,7 @@
 <!-- ================= ULTRA MODERN HERO ================= -->
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,25:0F172A,50:1E1B4B,75:312E81,100:7C3AED&text=SAKHI%20ARDRA&fontSize=78&fontColor=0:050816,25:0F172A,50:1E1B4B,75:312E81,100:7C3AED&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20•%20FULLSTACK%20DEVELOPER%20•%20UI%2FUX%20DESIGNER&descAlignY=56&descSize=18&animation=fadeIn" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,25:0F172A,50:1E1B4B,75:312E81,100:7C3AED&text=SAKHI%20ARDRA&fontSize=78&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20•%20FULLSTACK%20DEVELOPER%20•%20UI%2FUX%20DESIGNER&descAlignY=56&descSize=18&animation=fadeIn" 
   width="100%" 
 />
 
