@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-sakhi.vercel.app/">
+<a href="https://www.sakhiardra.my.id/">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -161,7 +161,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://portfolio-sakhi.vercel.app/">
+  <a href="https://www.sakhiardra.my.id/">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sakhiardra">
