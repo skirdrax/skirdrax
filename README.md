@@ -53,8 +53,9 @@
 <p align="center">
   <a href="https://www.sakhiardra.my.id/">
     <img src="https://img.shields.io/badge/🌟 PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED&color=white&link=https://www.sakhiardra.my.id/" width="300"/>
+    <p> click here</p>
   </a>
-  <p> click here</p>
+  
 </p>
 
 <br/>
