@@ -3,7 +3,7 @@
 <!-- ================= ULTRA MODERN HERO ================= -->
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,25:0F172A,50:1E1B4B,75:312E81,100:7C3AED&text=SAKHI%20ARDRA&fontSize=78&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20•%20FULLSTACK%20DEVELOPER%20•%20UI%2FUX%20DESIGNER&descAlignY=56&descSize=18&animation=fadeIn" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0A192F,25:112240,50:1A365D,75:2B6CB0,100:3182CE&text=SAKHI%20ARDRA&fontSize=78&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20•%20FULLSTACK%20DEVELOPER%20•%20UI%2FUX%20DESIGNER&descAlignY=56&descSize=18&animation=fadeIn" 
   width="100%" 
 />
 
@@ -13,7 +13,7 @@
 <!-- ================= CYBER TYPING ================= -->
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Designing+Elegant+User+Experiences;Developing+Scalable+Backend+Systems;Optimizing+Performance+%26+SEO;Exploring+Creative+Technologies" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Designing+Elegant+User+Experiences;Developing+Scalable+Backend+Systems;Optimizing+Performance+%26+SEO;Exploring+Creative+Technologies" 
 />
 
 <br/>
@@ -22,9 +22,9 @@
 <!-- ================= TECH BADGES ================= -->
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/skirdrax?style=plastic&logo=github&color=7C3AED&labelColor=0F172A&label=Followers" />
+  <img src="https://img.shields.io/github/followers/skirdrax?style=plastic&logo=github&color=3182CE&labelColor=1A365D&label=Followers" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=skirdrax&style=plastic&color=7C3AED&label=👀+Views&nbsp;&nbsp;&nbsp;&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=skirdrax&style=plastic&color=3182CE&label=👀+Views&nbsp;&nbsp;&nbsp;&abbreviated=true" />
 </div>
 <br>
 
@@ -33,16 +33,16 @@
 <!-- Baris 1: Tombol sosial (ukuran normal) -->
 <p align="center">
   <a href="https://github.com/skirdrax">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-1A365D?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/sakhiardra">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1A365D?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/skhiii_adrr">
-    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-1A365D?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:ardrasakhi390@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-1A365D?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 <!-- Baris 2: Tombol Portfolio (ukuran lebih besar & di tengah) -->
 <p align="center">
   <a href="https://www.sakhiardra.my.id/">
-    <img src="https://img.shields.io/badge/ 👉 VISIT%20PORTFOLIO%20👈-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED&color=white" width="380" />
+    <img src="https://img.shields.io/badge/ 👉 VISIT%20PORTFOLIO%20👈-3182CE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3182CE&color=white" width="380" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 <!-- ================= FOOTER WAVE ================= -->
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:312E81,100:0F172A" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3182CE,50:2B6CB0,100:0A192F" 
   width="100%" 
 />
 
@@ -137,7 +137,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
       <td>07:00 - 23:59 | 10 Mei 2026</td>
       <td>11 Mei 2026 ✔️ </td>
     </tr>
-  </table>
+   </table>
   
   <br/>
 
@@ -146,7 +146,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
   <br>
   
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=skirdrax&theme=dark&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED&cache=no" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=skirdrax&theme=dark&hide_border=true&background=00000000&ring=3182CE&fire=3182CE&currStreakNum=3182CE&cache=no" 
     width="100%" 
     alt="GitHub Streak Stats"
   />
@@ -154,7 +154,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skirdrax&bg_color=00000000&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skirdrax&bg_color=00000000&color=3182CE&line=3182CE&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 ---
 
@@ -163,7 +163,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 
 <div align="center">
   <a href="https://www.sakhiardra.my.id/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-3182CE?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sakhiardra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
