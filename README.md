@@ -159,7 +159,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 ---
 
 <!-- Connect Section -->
-## 🌐 Connect With Me sss
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.sakhiardra.my.id/">
