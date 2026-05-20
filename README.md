@@ -134,7 +134,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
       <td>10 Mei 2026 ✖️</td>
     </tr>
     <tr>
-      <td>07:00 - 23:59 | 10 Mei 2026</td>
+      <td>07:00 - 23:a59 | 10 Mei 2026</td>
       <td>11 Mei 2026 ✔️ </td>
     </tr>
    </table>
