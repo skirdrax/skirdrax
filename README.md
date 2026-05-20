@@ -72,7 +72,7 @@
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 
-Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik Negeri Indramayu**, fokus pada pembuatan solusi digital inovatif dengan pengalaman kuat dalam pengembangan *full-stack*, optimasi mesin pencari (SEO), dan desain antarmuka modernsss.
+Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik Negeri Indramayu**, fokus pada pembuatan solusi digital inovatif dengan pengalaman kuat dalam pengembangan *full-stack*, optimasi mesin pencari (SEO), dan desain antarmuka modern.
 
 *   🔭 **Current Project:** Mengembangkan sistem manajemen terintegrasi untuk platform e-commerce.
 *   🌱 **Learning Path:** Advanced Backend Architecture, Rust, & Cloud-Native Technologies.
