@@ -74,7 +74,7 @@
 
 Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik Negeri Indramayu**, fokus pada pembuatan solusi digital inovatif dengan pengalaman kuat dalam pengembangan *full-stack*, optimasi mesin pencari (SEO), dan desain antarmuka modern.
 
-*   🔭 **Current Project:** Mengembangkan sistem manajesasadmen terintegrasi untuk platform e-commerce.
+*   🔭 **Current Project:** Mengembangkan sistem manajemen terintegrasi untuk platform e-commerce.
 *   🌱 **Learning Path:** Advanced Backend Architecture, Rust, & Cloud-Native Technologies.
 *   ⚡ **Fun Fact:** Saya juga mendalami analisis pasar modal dan strategi konten..
 *   📫 **Contact:** [ardrasakhi390@gmail.com](mailto:ardrasakhi390@gmail.com)
