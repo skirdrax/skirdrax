@@ -22,8 +22,7 @@
 <!-- ================= TECH BADGES ================= -->
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/skirdrax?style=plastic&logo=github&color=3182CE&labelColor=1A365D&label=Followers" />
-  &nbsp;&nbsp;
+
   <img src="https://komarev.com/ghpvc/?username=skirdrax&style=plastic&color=3182CE&label=👀+Views&nbsp;&nbsp;&nbsp;&abbreviated=true" />
 </div>
 <br>
