@@ -75,7 +75,7 @@ Saya adalah mahasiswa **Software Engineering** yang berdedikasi di **Politeknik 
 
 *   🔭 **Current Project:** Mengembangkan sistem manajemen terintegrasi untuk platform e-commerce.
 *   🌱 **Learning Path:** Advanced Backend Architecture, Rust, & Cloud-Native Technologies.
-*   ⚡ **Fun Fact:** Saya juga mendalami analisis pasar modal dan strategi konten.sssss.
+*   ⚡ **Fun Fact:** Saya juga mendalami analisis pasar modal dan strategi konten.ssss.
 *   📫 **Contact:** [ardrasakhi390@gmail.com](mailto:ardrasakhi390@gmail.com)
 
 ---
